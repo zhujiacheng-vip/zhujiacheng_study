@@ -6,6 +6,6 @@ package com.zhujiacheng.Lambda.demo;
  */
 public interface Eatable {
 
-    abstract void eat();
+     void eat();
 
 }

@@ -5,4 +5,9 @@ package com.zhujiacheng.Lambda.demo;
  * @Date 2020/11/17 21:12
  */
 public interface MyInterface {
+
+    void show1();
+
+    void show2();
+
 }

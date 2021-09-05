@@ -6,6 +6,14 @@ package com.zhujiacheng.Lambda.demo;
  */
 public class MyInterfaceDemo {
 
+    public static void main(String[] args) {
 
+        MyInterface myInterface = new MyInterfaceImplOne();
+
+        myInterface.show1();
+
+        myInterface.show2();
+
+    }
 
 }
